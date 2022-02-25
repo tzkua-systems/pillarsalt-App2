@@ -1,0 +1,5 @@
+C:\Users\i7\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Arduino_Servo1.csprojAssemblyReference.cache
+C:\Users\i7\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Arduino2.resources
+C:\Users\i7\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\i7\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Arduino_Servo1.csproj.GenerateResource.cache
+C:\Users\i7\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Arduino_Servo1.csproj.CoreCompileInputs.cache
